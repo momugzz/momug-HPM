@@ -13,7 +13,6 @@ https://discord.gg/6pTANsqN3v vic2 games every Saturday 6PM CET
 -Violating Swiss neutrality costs 15 infamy instead of 25 now 
 -Added more machine parts and steel factories at the start so the shortage at the start is less severe
 -Every playable country that didn't have basic chemistry researched at the start now does
--Diplomatic cooldown reduced to 0 days
 -Japan can take the decision to annex Korea with Korea being civilized
 -Inventions giving you more mobilisation size are removed
 -England doesn't get the event that makes them lose Anglo-Canadian in the middle of the game anymore
