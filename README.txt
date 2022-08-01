@@ -1,5 +1,31 @@
 https://discord.gg/6pTANsqN3v vic2 games every Saturday 6PM CET
 
+0.2 changes:
+-Every country starts with proper stacks and transport ships 
+-Almost all African and Indian cultures removed so game runs faster
+-Croatians and Bosniaks merged into Serbian culture 
+-Austria-Hungary now gets an event for the Danubian Federation in 1870/1871 instead of an RNG-based decision 
+-Fixed Mexico and France being able to get infinite prestige from accepting the Walloons/Central Americans
+-Gran Colombia now has a decision to accept Central Americans
+-Map looks different 
+-Persia starts at 75% westernisation and claiming greater Persia gives more cores
+-Switzerland split into 3 states so now they can be partitioned
+-Violating Swiss neutrality costs 15 infamy instead of 25 now 
+-Added more machine parts and steel factories at the start so the shortage at the start is less severe
+-Every playable country that didn't have basic chemistry researched at the start now does
+-Diplomatic cooldown reduced to 0 days
+-Japan can take the decision to annex Korea with Korea being civilized
+-Inventions giving you more mobilisation size are removed
+-England doesn't get the event that makes them lose Anglo-Canadian in the middle of the game anymore
+-America can't get the disunited states event anymore
+-Gibraltar terrain now gives 3 defence instead of 2
+-Canada owns all of Canada except Newfoundland and Labrador
+-Oregon now starts uncolonised 
+-Baja California, Gibraltar, Suez, and the Panama canal are their own states now
+-Netherlands now needs only 25 prestige to accept the Flemish instead of 100
+-Constitutional crisis doesn't give Prestige and plurality loss anymore
+-Ottomans don't need to be a constitutional monarchy to take the hatt i humayun decision anymore
+
 CBs added:
 - Negotiated transfer 
 - Demand capital
