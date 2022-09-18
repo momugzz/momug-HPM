@@ -1,20 +1,22 @@
 https://discord.gg/6pTANsqN3v vic2 games every Saturday 6PM CET
+CORRECT CHECKSUM IS NGZN AS OF 0.3
 
 0.3 changes:
 -Gave russia freedom of trade and railroads
 -Russia directly owns all the baltics
--removed initial russian baby boom
--fixed AI spamming culture accepting decisions
+-Removed initial russian baby boom
+-Fixed AI spamming culture accepting decisions
 -Made sure Netherlands can get Walloons accepted
--removed options for UK and USA to become Natalia or Liberia
--nerfed Prussian industry a bit 
--made it so Iberia gets more former spanish/portuguese decisions
+-Removed options for UK and USA to become Natalia or Liberia
+-Nerfed Prussian industry a bit 
+-Made it so Iberia gets more former spanish/portuguese decisions
 -Spain doesnt lose accepted cultures now
 -Relasing vassals doesn't cost prestige
 -Germany renaming Alsace-Lorraine doesn't fuck localisation up anymore
 -Australia and Canada now start allied and sphered to the UK
 -Doctrine of lapse event happens 10 times more frequently
--radical reconstruction lasts 1 year instead of 10
+-Radical reconstruction lasts 1 year instead of 10
+-Every nation has max level ports (for their tech) in every state
 
 0.2 changes:
 -Every country starts with proper stacks and transport ships 
