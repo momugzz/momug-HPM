@@ -1,5 +1,21 @@
 https://discord.gg/6pTANsqN3v vic2 games every Saturday 6PM CET
 
+0.3 changes:
+-Gave russia freedom of trade and railroads
+-Russia directly owns all the baltics
+-removed initial russian baby boom
+-fixed AI spamming culture accepting decisions
+-Made sure Netherlands can get Walloons accepted
+-removed options for UK and USA to become Natalia or Liberia
+-nerfed Prussian industry a bit 
+-made it so Iberia gets more former spanish/portuguese decisions
+-Spain doesnt lose accepted cultures now
+-Relasing vassals doesn't cost prestige
+-Germany renaming Alsace-Lorraine doesn't fuck localisation up anymore
+-Australia and Canada now start allied and sphered to the UK
+-Doctrine of lapse event happens 10 times more frequently
+-radical reconstruction lasts 1 year instead of 10
+
 0.2 changes:
 -Every country starts with proper stacks and transport ships 
 -Almost all African and Indian cultures removed so game runs faster
