@@ -1,5 +1,21 @@
 https://discord.gg/6pTANsqN3v vic2 games every Saturday 6PM CET
-CORRECT CHECKSUM IS NGZN AS OF 0.3
+CORRECT CHECKSUM IS LJOF AS OF 0.4
+
+0.4 changes:
+- Forming Italy no longer requires being a great power
+- Lombardy is not required for Sardinia to take the decision that spawns Garibaldi
+- Venice cores reduced to only the venice state
+- Italy given 5 more coal provinces
+- Luxembourg is now its own state
+- The province of Trier now belongs to the Palatinate state instead of Rheinland
+- Added the Military Staff System tech to the Ottomans
+- Pre existing settings set
+- Music doesn't earrape you at the start anymore
+- Tabbing out should not cause any issues now 
+- Fixed a decision Japan has that crashed the game
+- Japan now has a strait from Fukoka to Tsushima and from Tsushima to Pusan in Korea
+- Pop growth inventions base discovery chance increased to 25%
+- Darwinism invention base discovery chance increased to 50% 
 
 0.3 changes:
 -Gave russia freedom of trade and railroads

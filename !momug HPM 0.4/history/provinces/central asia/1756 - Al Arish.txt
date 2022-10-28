@@ -1,0 +1,8 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+trade_goods = fruit
+life_rating = 20
+terrain = semidesert
+naval_base = 1
+#terrain = coastal_desert
