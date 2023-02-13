@@ -1,5 +1,5 @@
 https://discord.gg/6pTANsqN3v vic2 games every Saturday 6PM CET
-CORRECT CHECKSUM IS TBXQ
+CORRECT CHECKSUM IS SWTU as of 0.5
 
 0.5 changes:
 - Russia has a new unique national value so it can mobilise fewer troops
