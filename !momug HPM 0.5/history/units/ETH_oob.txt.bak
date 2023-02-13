@@ -1,0 +1,71 @@
+leader = {
+    name = "Tyrone"
+    date = 1835.1.1
+    type = land
+    personality = charismatic
+    background = pawn
+}
+
+army = {
+    name = "The Kang's Army"
+    location = 1852 
+    regiment = {
+        name= "Royal Cavalry"
+        type = cavalry
+        home = 1865
+    }
+
+    regiment = {
+        name= "1st infantry battalion"
+        type = infantry
+        home = 1859
+    }
+
+    regiment = {
+        name= "1. Nezam-Atlin"
+        type = infantry
+        home = 1853
+    }
+	
+	regiment = {
+        name= "2. Nezam-Atlin"
+        type = infantry
+        home = 1854
+    }
+
+    regiment = {
+        name= "5. Nezam"
+        type = infantry
+        home = 1857
+    }
+
+    regiment = {
+        name= "6. Nezam"
+        type = artillery
+        home = 1865
+    }
+	
+	regiment = {
+        name= "1. Nezam"
+        type = artillery
+        home = 1862
+    }
+
+    regiment = {
+        name= "2. Nezam"
+        type = artillery
+        home = 1852
+    }
+
+    regiment = {
+        name= "3. Nezam"
+        type = artillery
+        home = 1852
+    }
+
+    regiment = {
+        name= "4. Nezam"
+        type = artillery
+        home = 1852
+    }
+}

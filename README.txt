@@ -1,5 +1,5 @@
 https://discord.gg/6pTANsqN3v vic2 games every Saturday 6PM CET
-CORRECT CHECKSUM IS LJOF AS OF 0.4
+CORRECT CHECKSUM IS 
 
 0.4 changes:
 - Forming Italy no longer requires being a great power

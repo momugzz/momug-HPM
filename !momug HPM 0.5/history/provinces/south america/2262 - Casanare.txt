@@ -1,0 +1,6 @@
+owner = CLM
+controller = CLM
+add_core = CLM
+trade_goods = iron
+terrain = savanna
+life_rating = 35

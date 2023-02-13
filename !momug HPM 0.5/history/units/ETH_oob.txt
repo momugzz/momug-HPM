@@ -1,0 +1,71 @@
+leader = {
+    name = "Tyrone"
+    date = 1835.1.1
+    type = land
+    personality = charismatic
+    background = pawn
+}
+
+army = {
+    name = "The Kang's Army"
+    location = 1852 
+    regiment = {
+        name= "Royal Cavalry"
+        type = cavalry
+        home = 1865
+    }
+
+    regiment = {
+        name= "1st infantry battalion"
+        type = infantry
+        home = 1859
+    }
+
+    regiment = {
+        name= "2nd infantry battalion"
+        type = infantry
+        home = 1853
+    }
+	
+	regiment = {
+        name= "3rd infantry battalion"
+        type = infantry
+        home = 1854
+    }
+
+    regiment = {
+        name= "4th infantry battalion"
+        type = infantry
+        home = 1857
+    }
+
+    regiment = {
+        name= "1. Kang cannon"
+        type = artillery
+        home = 1865
+    }
+	
+	regiment = {
+        name= "2. Kang cannon"
+        type = artillery
+        home = 1862
+    }
+
+    regiment = {
+        name= "3. Kang cannon"
+        type = artillery
+        home = 1852
+    }
+
+    regiment = {
+        name= "4. Kang cannon"
+        type = artillery
+        home = 1852
+    }
+
+    regiment = {
+        name= "5. Kang cannon"
+        type = artillery
+        home = 1852
+    }
+}
